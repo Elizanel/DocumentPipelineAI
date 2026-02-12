@@ -1,0 +1,7 @@
+{
+  "one_liner": "",
+  "bullets": [],
+  "entities": [],
+  "risks": [],
+  "raw": "```json\n{\n  \"one_liner\": \"The paper discusses the interaction between macro and individual influences on mental health, emphasizing the role of workplace policies and socioeconomic status.\",\n  \"bullets\": [\n    \"Workplace policies significantly affect mental health engagement.\",\n    \"Socioeconomic status influences access to mental health care.\",\n    \"Individual beliefs about mental health can hinder seeking help.\",\n    \"Health disparities arise from uneven access and support.\",\n    \"The Health Belief Model can guide digital health intervention design.\",\n    \"Digital tools can lower barriers and increase engagement in mental health care.\"\n  ],\n  \"entities\": [],\n  \"risks\": [\n    \"Disparities in mental health outcomes due to unsupportive workplace policies.\",\n    \"Cost barriers and lack of insurance affecting lower-income individuals.\",\n    \"Stigma and fear shaping individual beliefs about mental health care.\"\n  ]\n}\n```"
+}

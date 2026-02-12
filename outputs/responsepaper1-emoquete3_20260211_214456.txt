@@ -1,0 +1,172 @@
+Elizanel Martinez Moquete  
+AI Ethics & Society  
+Response Paper 1 
+ 
+Macro and Individual Influences on Health: 
+For the two macro or societal-level influences on health I chose workplace policies and benefits, 
+and socioeconomic status. Now for the individual-level influence, I chose health beliefs and attitudes 
+toward mental health. I believe these factors interact in important ways that shape health behaviors and 
+create health disparities, especially around mental health care.  
+Workplace policies play a huge role in how people engage with their mental health. Whether it’s 
+the employer provided benefits, sick leave policies, and even if mental health is openly supported at work 
+directly affect whether someone feels safe seeking care. Like talked about in the multilevel influences on 
+health lecture, these institutional-level factors can either support or constrain healthy behaviors (Module 2, 
+Lecture 4).  Even if mental health services technically exist, policies alone are not enough. The company 
+culture can dictate if people are using the benefits that companies have for them. There are many companies 
+where mental health or even taking the day off is looked down upon. Individual beliefs and how easy it is 
+for those to shift depending on ones environment matter a lot. If a person believes that talking about mental 
+health could hurt their career or make them seem weak, they are less likely to use those benefits. The need 
+to have a stable job to be able to life and afford their life or their families many times takes priority. This 
+interaction helps explain why two people working at different companies or even in the same company, 
+may behave very differently when it comes to mental health support. 
+On another note, the companies or workplaces without any clear protection towards individuals 
+seeking or wanting to seek these benefits can discourage individuals even those who don’t know if they 
+need the benefits.  
+Socioeconomic status also interacts strongly with individual health beliefs, like a briefly mentioned 
+above. People with higher income and more stable jobs not only can have a different perspective but they 
+often have better access to care and more flexibility to take time off which can reinforce the thought that 
+seeking help is manageable and worthwhile. But, On the other hand, people with lower income may face 
+cost barriers, lack of insurance, unstable work schedules, and just all around have different priorities, may 
+experience higher levels of stress and fewer options of care. This can shape beliefs that mental health care 
+is inaccessible, not meant for them, or even not worth their while. In many communities, taking care of 
+your mental health, going to therapy, etc, seems as not important or something only reserved for the 
+privileged. Beliefs like these definitely shape health behaviors. These interactions contribute to health 
+disparities because access, beliefs, and outcomes become unevenly distributed across populations. When 
+these beliefs interact with unsupportive workplace policies or financial stress, disparities become more 
+pronounced. 
+These macro and individual factors show that health behaviors are not just about personal choice. 
+They are shaped by systems, policies, and social context. When workplace support and economic resources 
+are uneven, and when individual beliefs are shaped by stigma or fear, disparities in mental health outcomes 
+become more likely. 
+Think broadly about a health behavior theory's applicability to digital health design:  
+Using a Health Behavior Theory to Design Digital Health Interventions 
+The Health Belief Model is a framework for thinking about how digital health interventions can be 
+designed, encourage more positive behaviors, and can promote wellbeing as well as reduce health 
+disparities. This model focuses on how people perceive health risks, benefits, barriers, and their own ability 
+to take actions. This model Is great for digital health tools because it can leverage constructs such as 
+perceived susceptibility, perceived severity, perceived benefits, perceived barriers, cues to action, and self-
+efficacy (Lecture 4)  
+Digital health technologies can use the Health Belief Model to increase perceived benefits and 
+reduce perceived barriers. Apps that provide educational content can help users recognize symptoms and 
+risks, increasing perceived susceptibility and severity. For example, mental health apps often emphasize 
+short, manageable activities, which can lower the barrier of time commitment. Notifications and reminders 
+act as cues to action, encouraging users to engage with the app consistently. Educational content can 
+increase perceived severity and susceptibility by helping users understand the consequences of untreated 
+mental health issues. Progress tracking and goal setting features support self-efficacy by showing users that 
+small steps can lead to improvement.  
+When designed thoughtfully, these features can help address disparities by making support more 
+accessible, private, low cost, and flexible. For people who may not feel comfortable seeking in-person care, 
+digital tools can offer a lower risk entry point. In this way, the Health Belief Model provides a clear structure 
+for designing interventions that align with how people make health decisions. 
+Limitations of the Health Belief Model 
+While the Health Belief Model is useful, it also has important limitations when applied to digital 
+health design. One major weakness is that it focuses heavily on individual decision making and assumes 
+people act rationally once barriers are removed. In reality, many barriers to health are due to the structure 
+of the health community and not individual. As discussed in the multilevel influences lecture, health 
+behaviors are often constrained by factors outside individual control, such as workplace culture, financial 
+stress, or discrimination (Module2, Lecture 4). Oyserman et al. (2014) further argue that identity and social 
+context strongly influence motivation and behavior. Even if a digital health tool successfully changes 
+beliefs, users may still struggle to act if healthy behaviors conflict with their social environment or sense 
+of identity. This means that interventions based solely on the Health Belief Model may overestimate the 
+impact of changing beliefs without addressing broader systemic issues. As a result, digital tools designed 
+using this model alone may be less effective for marginalized populations. 
+The model does not fully account for factors like cost, systemic discrimination, or lack of access to 
+technology. A digital intervention may increase perceived benefits, but that does not help someone who 
+cannot afford a subscription or does not even have reliable internet access. The model also downplays social 
+and cultural influences, like stigma or workplace norms, which strongly affect mental health behaviors. 
+Because of this, relying just on the Health Belief Model risks placing responsibility on individuals while 
+ignoring the broader systems that create and maintain health disparities everyday. 
+Health behavior Theory to a Real Tech: 
+Description of the Technology 
+A commonly used digital health technology is a mental health tracking app, such as a mood tracking or 
+wellness app. These apps typically allow users to log their mood, track symptoms, receive reminders, and 
+access educational content. Some even include progress dashboards and personalized feedback. Flo is a 
+great example of this would be Flo, a period and reproductive health tracking app. log menstrual cycles, 
+symptoms, moods, ovulation, pregnancy related data, and general health patterns. Flo provides predictions 
+about upcoming periods and fertile windows, personalized insights, educational articles, and health 
+reminders. It also includes features like symptom trend visualization, AI generated health explanations, and 
+even a feature where you can write to a professional.  
+Flo’s goal is to help users better understand their bodies, reproductive health and be able to feel empowered 
+about the decisions they make.  
+How the Technology Supports Healthy Behaviors 
+If I look at Flo through the Health Belief Model from lecture, it actually makes a lot of sense why the app 
+works the way it does. The model basically says people are more likely to do something health related if 
+they think it applies to them and actually matters. Flo increases perceived susceptibility by constantly 
+showing cycle predictions, ovulation windows, and patterns in your symptoms. When you see that you 
+might be late or that something looks irregular, because its about your body- it makes you take a second 
+look. It is not just general health advice anymore, it is personal. 
+It also plays into perceived severity. When the app explains what certain symptoms could mean or 
+encourages you to track pain, mood changes, or irregular bleeding, it subtly reinforces that reproductive 
+health is important. It makes it feel like if you ignore it might not be good in the long term because you 
+won’t have that info to look back to if something happens. That aligns with what we learned in the lecture 
+about how people are more likely to act when they believe the outcome matters. 
+Flo also uses cues to action, which the Health Belief Model talks about a lot. The reminders and notifications 
+are basically little nudges that push you to log your symptoms. I find myself logging them in because of it, 
+when my notifications are off I for the most part forget unless the symptoms are affecting me badly. The 
+simple cues make the behavior easier to maintain. 
+And then there is self efficacy. The app gives you charts, explanations, and trends over time, which makes 
+you feel more in control of your body and more informed. I got into my checkups feeling more confident 
+and in control. That confidence piece is important, and it connects to what we discussed in Social Cognitive 
+Theory too. When you feel like you understand what is happening, you are more likely to keep engaging 
+with it. 
+That said, the Health Belief Model still feels limited. It focuses a lot on individual beliefs, but it does not 
+fully capture bigger issues like access to healthcare, cultural stigma around reproductive health, or whether 
+users even feels safe tracking this kind of data. The multilevel influences lecture reminded us that behavior 
+is shaped by more than just personal beliefs. So while Flo fits the theory in some ways, it does not fully 
+address the broader structural factors that shape health behaviors. 
+Design Improvements and Barriers 
+One design improvement would be to better incorporate social and identity-based context into the app. For 
+example, allowing users to tailor content based on cultural background or workplace environment could 
+make the app feel more relevant. However, this could be difficult due to privacy concerns and the challenge 
+of collecting sensitive identity data responsibly. 
+Another improvement would be integrating stronger connections to external support systems, such as 
+workplace resources or community services. While this could reduce structural barriers, it may be hard to 
+implement due to differences in employer policies, geographic availability, and liability concerns. These 
+challenges highlight the tension between theory-driven design and real-world constraints. 
+Two design improvements 
+1. More Cultural inclusicivty.  
+Flo could better address cultural differences in reproductive health knowledge and stigma. Some users 
+may come from backgrounds where discussing menstrual or reproductive health is taboo. Adding 
+culturally tailored educational modules or optional community storytelling features could better support 
+identity-based motivations and reduce stigma. They do have a feature where everyone that has the app 
+can go in and ask questions and many times there you see users cooing together to answer questions 
+based on culture or background. But it could be nice to bring a feature like this out and have the 
+opportunity to educate those would want to learn more.  
+Barriers: 
+• 
+Cultural tailoring requires significant research and localization. 
+• 
+Some users may be uncomfortable engaging with community based features. 
+• 
+There is risk of stereotyping if not done carefully. 
+2.  Addressing Structural Barriers  
+The Health Belief Model focuses heavily on individual beliefs, but many users face structural barriers 
+to care (cost, access, insurance issues). This one could also be a game changer. Flo could include 
+localized clinic finders, low-cost care resources, or telehealth referrals based on the users location. 
+Barriers: 
+• 
+Integrating healthcare systems is technically complex. 
+• 
+There may be liability issues in recommending providers. 
+• 
+Access varies widely across countries, which makes consistent implementation difficult. 
+ 
+ 
+References:  
+Alvidrez, J., Castille, D., Laude-Sharp, M., Rosario, A., & Tabor, D. (2019). The National Institute on 
+Minority Health and Health Disparities research framework. American Journal of Public Health, 109(S1), 
+S16–S20. 
+Campbell, M. K., & Quintiliani, L. M. (2006). Tailored interventions in public health: Where does 
+tailoring fit in interventions to reduce health disparities? American Behavioral Scientist, 49(6), 775–793. 
+Oyserman, D., Smith, G. C., & Elmore, K. (2014). Identity-based motivation: Implications for 
+intervention. The Counseling Psychologist, 42(1), 11–46. 
+Rosenstock, I. M. (1974). Historical origins of the Health Belief Model. Health Education Monographs, 
+2(4), 328–335. 
+Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Prentice-Hall. 
+M2L4V1 (2024). Multilevel influences on health. AI Ethics and Society, GaTech. 
+M2L4V4 (2024). Health Belief Model. AI Ethics and Society, GaTech. 
+M2L4V8 (2024). Social Cognitive Theory. AI Ethics and Society, GaTech. 
+“I/we have not used generative AI to prepare this assignment.”  
+ 
+ 
+ 
