@@ -1,4 +1,3 @@
-# DocumentPipelineAI
 # DocPipeline AI
 
 DocPipeline AI is a lightweight document intelligence prototype that ingests PDFs, extracts text, generates structured AI summaries, tags the document, and runs basic quality evaluation.
