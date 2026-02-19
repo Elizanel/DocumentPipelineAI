@@ -60,9 +60,7 @@ if uploaded_file:
             saved_path = save_text(text, uploaded_file.name)
             st.info(f"Saved extracted text to: `{saved_path}`")
 
-    # ----------------------------
     # STEP 2: SUMMARIZE + TAG + EVALUATE
-    # ----------------------------
 
     # Only show summarize button if extraction already happened.
     # This prevents user from skipping steps.
@@ -99,9 +97,7 @@ if uploaded_file:
                 json_path = save_json(result, uploaded_file.name)
                 st.info(f"Saved AI summary to: `{json_path}`")
 
-# ----------------------------
 # DISPLAY SECTION
-# ----------------------------
 
 # If summary_result exists, display everything nicely.
 if "summary_result" in st.session_state:
